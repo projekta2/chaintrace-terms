@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/Last_Updated-2026--06--10-64748b?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing_Page-2563eb?style=for-the-badge&labelColor=060c1a" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/chaintrace-demo.html"><img src="https://img.shields.io/badge/Interactive_Demo-0ea5e9?style=for-the-badge&labelColor=060c1a" /></a>
+  <a href="https://projekta2.gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Get_Premium-ff90e8?style=for-the-badge&labelColor=060c1a" /></a>
+</p>
+
 <br />
 
 ## 1. Acceptance of terms
@@ -40,7 +46,7 @@ By installing, accessing, or using ChainTrace (the "Extension"), you agree to be
 - Priority support (email)
 - **One‑time payment** – lifetime access, no subscription, no renewal
 
-Premium licenses are sold via [Gumroad](https://gumroad.com/l/chaintrace-premium). Licenses are verified through Gumroad's API. You may use one license key per user. Volume discounts are available for teams – contact **support@chaintrace.app**.
+Premium licenses are sold via [Gumroad](https://projekta2.gumroad.com/l/chaintrace-premium). Licenses are verified through Gumroad's API. You may use one license key per user. Volume discounts are available for teams – contact **hello@projekta2.com**.
 
 <br />
 
@@ -48,7 +54,7 @@ Premium licenses are sold via [Gumroad](https://gumroad.com/l/chaintrace-premium
 
 **30‑day money‑back guarantee** – If ChainTrace does not meet your expectations, or if it fails to save you at least 5 hours per month, you are eligible for a full refund within 30 days of purchase.
 
-To request a refund, email **support@chaintrace.app** with your Gumroad receipt and a short explanation. No lengthy forms, no interrogations – we refund every cent.
+To request a refund, email **hello@projekta2.com** with your Gumroad receipt and a short explanation. No lengthy forms, no interrogations – we refund every cent.
 
 <br />
 
@@ -82,7 +88,7 @@ Support is provided via email:
 - **Free plan**: Community‑based support (response within 5 business days)
 - **Premium plan**: Priority support (response within 24‑48 hours, Monday–Friday)
 
-For all support inquiries, contact **support@chaintrace.app**. Please include:
+For all support inquiries, contact **hello@projekta2.com**. Please include:
 
 - Your ChainTrace version (shown in the extension popup)
 - The URL of the supplier portal you are trying to capture
@@ -94,7 +100,7 @@ We read every message and respond personally. No bots, no automated ticketing sy
 
 ## 8. Changes to these terms
 
-We may update these Terms from time to time. The latest version will always be available at [chaintrace.app/terms](https://chaintrace.app/terms). Continued use of the Extension after changes constitutes acceptance of the new Terms.
+We may update these Terms from time to time. The latest version will always be available at [chaintrace.app/terms](https://chaintrace.app/terms) (once the domain is active) or in this repository. Continued use of the Extension after changes constitutes acceptance of the new Terms.
 
 <br />
 
@@ -108,8 +114,11 @@ These Terms shall be governed by and construed in accordance with the laws of Sp
 
 For legal questions, abuse reports, or any matter not covered by support:
 
-📧 **legal@chaintrace.app**  
-🌐 [chaintrace.app](https://chaintrace.app)
+📧 **hello@projekta2.com**  
+🌐 [ChainTrace Landing Page](https://projekta2.github.io/chaintrace-landing/)  
+🐙 [GitHub Profile](https://github.com/projekta2)  
+🔗 [LinkedIn](https://linkedin.com/in/alexiglesias1)  
+💰 [Buy Premium on Gumroad](https://projekta2.gumroad.com/l/chaintrace-premium)
 
 <br />
 
