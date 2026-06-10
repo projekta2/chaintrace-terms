@@ -6,21 +6,30 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060c1a,25:0d1f4a,60:1e3a8a,100:2563eb&height=160&section=header&text=Terms%20of%20Service&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ChainTrace%20%2B%20Support&descAlignY=55&descSize=18&descColor=ffffffcc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060c1a,25:14588e,60:2563eb,100:3b82f6&height=180&section=header&text=Terms%20of%20Service&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ChainTrace%20%2B%20Support&descAlignY=58&descSize=18&descColor=cccccc" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Version-2.1.0-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version-2.1.0-14588e?style=flat-square" />
   <img src="https://img.shields.io/badge/License-ONE--TIME_%2F_Lifetime-ff90e8?style=flat-square" />
   <img src="https://img.shields.io/badge/Last_Updated-2026--06--10-64748b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Landing_Page-2563eb?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing_Page-2563eb?style=for-the-badge&labelColor=060c1a" /></a>
-  <a href="https://projekta2.github.io/chaintrace-landing/chaintrace-demo.html"><img src="https://img.shields.io/badge/Interactive_Demo-0ea5e9?style=for-the-badge&labelColor=060c1a" /></a>
-  <a href="https://projekta2.gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Get_Premium-ff90e8?style=for-the-badge&labelColor=060c1a" /></a>
-</p>
+<br />
+
+## 📌 Quick links
+
+| | |
+|---|---|
+| 🌐 **Landing page** | [https://projekta2.github.io/chaintrace-landing/](https://projekta2.github.io/chaintrace-landing/) |
+| 🎮 **Interactive demo** | [https://projekta2.github.io/chaintrace-landing/chaintrace-demo.html](https://projekta2.github.io/chaintrace-landing/chaintrace-demo.html) |
+| 💎 **Get Premium** | [https://projekta2.gumroad.com/l/chaintrace-premium](https://projekta2.gumroad.com/l/chaintrace-premium) |
+| 📧 **Support & Contact** | [hello@projekta2.com](mailto:hello@projekta2.com) |
+| 🔗 **LinkedIn** | [Alexandre Iglesias](https://linkedin.com/in/alexiglesias1) |
+| 🐙 **GitHub** | [@projekta2](https://github.com/projekta2) |
+| 🔒 **Privacy Policy** | [https://projekta2.github.io/chaintrace-privacy/](https://projekta2.github.io/chaintrace-privacy/) |
 
 <br />
 
@@ -36,6 +45,7 @@ By installing, accessing, or using ChainTrace (the "Extension"), you agree to be
 - 50 captures per month (resets on the 1st of each month)
 - 500 rows max per capture
 - Up to 3 saved Recipes
+- CSV export, basic validation
 - Valid forever – no expiration
 
 ### Premium plan
@@ -100,7 +110,7 @@ We read every message and respond personally. No bots, no automated ticketing sy
 
 ## 8. Changes to these terms
 
-We may update these Terms from time to time. The latest version will always be available at [chaintrace.app/terms](https://chaintrace.app/terms) (once the domain is active) or in this repository. Continued use of the Extension after changes constitutes acceptance of the new Terms.
+We may update these Terms from time to time. The latest version will always be available at [https://projekta2.github.io/chaintrace-terms/](https://projekta2.github.io/chaintrace-terms/). Continued use of the Extension after changes constitutes acceptance of the new Terms.
 
 <br />
 
@@ -115,15 +125,12 @@ These Terms shall be governed by and construed in accordance with the laws of Sp
 For legal questions, abuse reports, or any matter not covered by support:
 
 📧 **hello@projekta2.com**  
-🌐 [ChainTrace Landing Page](https://projekta2.github.io/chaintrace-landing/)  
-🐙 [GitHub Profile](https://github.com/projekta2)  
-🔗 [LinkedIn](https://linkedin.com/in/alexiglesias1)  
-💰 [Buy Premium on Gumroad](https://projekta2.gumroad.com/l/chaintrace-premium)
+🌐 [https://projekta2.github.io/chaintrace-landing/](https://projekta2.github.io/chaintrace-landing/)
 
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:060c1a&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:060c1a&height=80&section=footer" width="100%" />
 </p>
 
 <p align="center">
